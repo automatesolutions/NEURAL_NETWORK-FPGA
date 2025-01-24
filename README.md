@@ -6,6 +6,10 @@ The VHDL and Octave programs focus on neural networks using FPGA Cylcone V, leve
 Special thanks to Marco Winzker (Professor) and FPGA Vision for their valuable insights and contributions to this project. 
 Their expertise in FPGA design and image processing served as a foundation for this implementation.
 
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/Qgjawf20v7Y/0.jpg)](https://www.youtube.com/watch?v=Qgjawf20v7Y)
+
 
 ## Contributing
 
